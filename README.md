@@ -18,4 +18,6 @@ Future improvements planned
   - Known bugs exist when exiting the script from terminal using CTRL + C
   - IP enumeration function only enumerates /24 subnets. Enhanced subnet functionality is planned for v1.1
   - Graphical user interface (GUI) is planned for v2.0
-Attacks should be tested within your own environment to ensure the ARP table of your target is properly poisoned.
+  
+  
+  Attacks should be tested within your own environment to ensure the ARP table of your target is properly poisoned.
